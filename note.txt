@@ -1,0 +1,9 @@
+//-> 1 to 20 ... qu'est-ce que c'est ???
+//-> commentaire pourri dans le test spare case l.19
+//-> var     l.37,38
+//-> i WTF ???????????? l.38
+//-> commentaire pourri dans score l.41
+//-> commentaire pourri l.27
+//-> commentaire pourri l.54
+//-> code de score WTF !!!!!!!!!!
+
