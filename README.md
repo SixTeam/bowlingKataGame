@@ -11,6 +11,7 @@ Game
 
 1. branch "calistenics"
 
+	http://williamdurand.fr/2013/06/03/object-calisthenics/
 	http://www.mabishu.com/blog/2012/12/14/object-calisthenics-write-better-object-oriented-code/
 
     1.Use only one level of indentation per method
