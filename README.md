@@ -1,6 +1,21 @@
 bowlingKataGame
 ===============
 
+	/**
+	*   TDD ?
+	*       test first
+	*           unit test
+	*           black box test if possible
+	*           white box insteads
+	*       baby step
+	*       red-green-refactor
+	*       clean code
+	*
+	*       Objectif :
+	*       FEEDBACK !!!!!!!!!!!!!!
+	*/
+
+
 fr.slideshare.net/lalitkale/bowling-game-kata-by-robert-c-martin
 
 Game
