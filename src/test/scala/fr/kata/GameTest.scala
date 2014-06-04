@@ -51,10 +51,10 @@ class Game(rolls: List[Int] = Nil) {
 
 	def roll(pinfall: Int): Game = new Game(rolls :+ pinfall)
 
-	def score: Int = calculScore(FRAMES, 0, 0)
+	def score: Int = calculScore(FRAMES)
 
 	@tailrec
-	private def calculScore(frames: List[Int], score: Int, frameIndex: Int): Int = frames match {
+	private def calculScore(frames: List[Int], score: Int = 0, frameIndex: Int = 0): Int = frames match {
 		case x :: xs => {
 			if(isStrike(frameIndex))
 				calculScore(xs, score + 10 + strikeBonus(frameIndex), frameIndex+1)
